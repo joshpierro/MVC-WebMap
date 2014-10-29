@@ -7,4 +7,4 @@ A simple web mapping application built with MVC. To build and launch....
  
  That's it!
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://raw.githubusercontent.com/joshpierro/MVC-WebMap/master/ScreenShot.png)
