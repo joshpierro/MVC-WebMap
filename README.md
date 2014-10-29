@@ -7,4 +7,7 @@ A simple web mapping application built with MVC. To build and launch....
  
  That's it!
 
+
+Built with angular.js and leaflet.js. :) 
+
 ![alt tag](https://raw.githubusercontent.com/joshpierro/MVC-WebMap/master/ScreenShot.png)
