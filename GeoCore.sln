@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoCore", "GeoCore\GeoCore.csproj", "{BD412FC4-7261-4ED7-B051-1EF354DA45CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD412FC4-7261-4ED7-B051-1EF354DA45CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD412FC4-7261-4ED7-B051-1EF354DA45CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD412FC4-7261-4ED7-B051-1EF354DA45CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD412FC4-7261-4ED7-B051-1EF354DA45CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
