@@ -6,3 +6,5 @@ A simple web mapping application built with MVC. To build and launch....
  - Open the solution and configure your web config file (if necessary) 
  
  That's it!
+
+![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
